@@ -1,0 +1,3 @@
+[submodule "android/andrea"]
+	path = android/andrea
+	url = https://github.com/kaushik143/andrea
